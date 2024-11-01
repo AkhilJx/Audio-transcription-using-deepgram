@@ -27,14 +27,14 @@ Deepgram's voice AI platform provides APIs for speech-to-text, text-to-speech, a
 Refer to the site for documentation of the transcribe function: https://developers.deepgram.com/reference/listen-file 
 
 # Models available in deepgram:
-    ![image](https://github.com/user-attachments/assets/a702263c-abf1-4df1-8010-d6f29528ebdc)
-    ![image](https://github.com/user-attachments/assets/ab0fefe4-2517-4437-ab01-738cad357989)
+   ![image](https://github.com/user-attachments/assets/a702263c-abf1-4df1-8010-d6f29528ebdc)
+   ![image](https://github.com/user-attachments/assets/ab0fefe4-2517-4437-ab01-738cad357989)
 
 # Supported Audio Formats:
-    ![image](https://github.com/user-attachments/assets/fddd362e-e7b0-406d-a0f3-357a3643c92a)
+   ![image](https://github.com/user-attachments/assets/fddd362e-e7b0-406d-a0f3-357a3643c92a)
 
 # Pricing
-    ![image](https://github.com/user-attachments/assets/0afba514-6a53-4f1d-9e4e-48ca3cc8288e)
+   ![image](https://github.com/user-attachments/assets/0afba514-6a53-4f1d-9e4e-48ca3cc8288e)
 
 # References:
   1. https://github.com/deepgram
