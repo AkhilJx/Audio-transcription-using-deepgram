@@ -33,9 +33,13 @@ refer to the site for documentation of the transcribe function: https://develope
 # Supported Audio Formats:
 ![image](https://github.com/user-attachments/assets/fddd362e-e7b0-406d-a0f3-357a3643c92a)
 
+# Pricing
+![image](https://github.com/user-attachments/assets/0afba514-6a53-4f1d-9e4e-48ca3cc8288e)
+
 # References:
   1. https://github.com/deepgram
   2. https://github.com/deepgram/deepgram-python-sdk
   3. https://console.deepgram.com/
   4. https://developers.deepgram.com/docs/models-languages-overview
   5. https://developers.deepgram.com/reference/api-rate-limits - for rate limit
+  6. https://deepgram.com/pricing
